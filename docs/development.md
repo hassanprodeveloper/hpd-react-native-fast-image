@@ -19,7 +19,7 @@ cd ReactNativeFastImageExample
 yarn
 
 # Link module.
-yarn link react-native-fast-image
+yarn link hpd-react-native-fast-image
 
 # Start packager.
 yarn start

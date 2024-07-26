@@ -1,355 +1,355 @@
-## [8.6.3](https://github.com/DylanVann/react-native-fast-image/compare/v8.6.2...v8.6.3) (2022-10-31)
+## [8.6.3](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v8.6.2...v8.6.3) (2022-10-31)
 
 
 ### Bug Fixes
 
-* tintColor in fallback Image ([#882](https://github.com/DylanVann/react-native-fast-image/issues/882)) ([fbb6b68](https://github.com/DylanVann/react-native-fast-image/commit/fbb6b68a606f8f1fb9b570243d65bd410f21f63e))
-* use ColorValue type ([#939](https://github.com/DylanVann/react-native-fast-image/issues/939)) ([54376d8](https://github.com/DylanVann/react-native-fast-image/commit/54376d87f7e3826b884374a429c3879635dea246))
+* tintColor in fallback Image ([#882](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/882)) ([fbb6b68](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/fbb6b68a606f8f1fb9b570243d65bd410f21f63e))
+* use ColorValue type ([#939](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/939)) ([54376d8](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/54376d87f7e3826b884374a429c3879635dea246))
 
-## [8.6.2](https://github.com/DylanVann/react-native-fast-image/compare/v8.6.1...v8.6.2) (2022-10-31)
-
-
-### Bug Fixes
-
-* Add tintColor to Flow FastImageProps type ([#871](https://github.com/DylanVann/react-native-fast-image/issues/871)) ([37abecd](https://github.com/DylanVann/react-native-fast-image/commit/37abecd3ff5092a136542a24320f7790a6ed8ba0))
-
-## [8.6.1](https://github.com/DylanVann/react-native-fast-image/compare/v8.6.0...v8.6.1) (2022-09-05)
+## [8.6.2](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v8.6.1...v8.6.2) (2022-10-31)
 
 
 ### Bug Fixes
 
-* Flow syntax error ([#924](https://github.com/DylanVann/react-native-fast-image/issues/924)) ([a10ab3f](https://github.com/DylanVann/react-native-fast-image/commit/a10ab3f87fb2b72d68e3ef1daab71eb8f8cca960))
+* Add tintColor to Flow FastImageProps type ([#871](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/871)) ([37abecd](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/37abecd3ff5092a136542a24320f7790a6ed8ba0))
 
-# [8.6.0](https://github.com/DylanVann/react-native-fast-image/compare/v8.5.12...v8.6.0) (2022-08-29)
+## [8.6.1](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v8.6.0...v8.6.1) (2022-09-05)
+
+
+### Bug Fixes
+
+* Flow syntax error ([#924](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/924)) ([a10ab3f](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/a10ab3f87fb2b72d68e3ef1daab71eb8f8cca960))
+
+# [8.6.0](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v8.5.12...v8.6.0) (2022-08-29)
 
 
 ### Features
 
-* support defaultSource on iOS and Android ([#921](https://github.com/DylanVann/react-native-fast-image/issues/921)) ([ec7c453](https://github.com/DylanVann/react-native-fast-image/commit/ec7c4535139ae759b5ce5531aadb7612a5a744d0))
+* support defaultSource on iOS and Android ([#921](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/921)) ([ec7c453](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/ec7c4535139ae759b5ce5531aadb7612a5a744d0))
 
-## [8.5.12](https://github.com/DylanVann/react-native-fast-image/compare/v8.5.11...v8.5.12) (2022-08-28)
+## [8.5.12](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v8.5.11...v8.5.12) (2022-08-28)
 
 
 ### chore
 
-* Update React peerDependency to "^17 || ^18" ([6255fc4](https://github.com/DylanVann/react-native-fast-image/commit/6255fc4f9deea0b83476ddb0c5389d0076ab6cfc))
+* Update React peerDependency to "^17 || ^18" ([6255fc4](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/6255fc4f9deea0b83476ddb0c5389d0076ab6cfc))
 
 
 ### BREAKING CHANGES
 
 * This package will no longer support React 16.
 
-## [8.5.11](https://github.com/DylanVann/react-native-fast-image/compare/v8.5.10...v8.5.11) (2021-09-27)
+## [8.5.11](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v8.5.10...v8.5.11) (2021-09-27)
 
 
 ### Bug Fixes
 
-* null exception in FastImageViewManager.java ([#423](https://github.com/DylanVann/react-native-fast-image/issues/423)) ([a7a8643](https://github.com/DylanVann/react-native-fast-image/commit/a7a8643ed4988f3726a8ac8a0256f4d4ca3feb6f))
+* null exception in FastImageViewManager.java ([#423](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/423)) ([a7a8643](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/a7a8643ed4988f3726a8ac8a0256f4d4ca3feb6f))
 
-## [8.5.10](https://github.com/DylanVann/react-native-fast-image/compare/v8.5.9...v8.5.10) (2021-09-27)
+## [8.5.10](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v8.5.9...v8.5.10) (2021-09-27)
 
-## [8.5.9](https://github.com/DylanVann/react-native-fast-image/compare/v8.5.8...v8.5.9) (2021-09-27)
-
-
-### Bug Fixes
-
-* FastImage extends ViewProps ([#829](https://github.com/DylanVann/react-native-fast-image/issues/829)) ([68db871](https://github.com/DylanVann/react-native-fast-image/commit/68db8712bff865e6b5464b02c956d5198529a2f7)), closes [#819](https://github.com/DylanVann/react-native-fast-image/issues/819)
-
-## [8.5.8](https://github.com/DylanVann/react-native-fast-image/compare/v8.5.7...v8.5.8) (2021-09-17)
-
-## [8.5.7](https://github.com/DylanVann/react-native-fast-image/compare/v8.5.6...v8.5.7) (2021-09-17)
-
-## [8.5.6](https://github.com/DylanVann/react-native-fast-image/compare/v8.5.5...v8.5.6) (2021-09-16)
+## [8.5.9](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v8.5.8...v8.5.9) (2021-09-27)
 
 
 ### Bug Fixes
 
-* make corresponding flow file for .cjs file ([77326e8](https://github.com/DylanVann/react-native-fast-image/commit/77326e8b09954ab8c27785fe84427b1ed3d9290f)), closes [#784](https://github.com/DylanVann/react-native-fast-image/issues/784)
+* FastImage extends ViewProps ([#829](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/829)) ([68db871](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/68db8712bff865e6b5464b02c956d5198529a2f7)), closes [#819](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/819)
 
-## [8.5.5](https://github.com/DylanVann/react-native-fast-image/compare/v8.5.4...v8.5.5) (2021-09-15)
+## [8.5.8](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v8.5.7...v8.5.8) (2021-09-17)
 
+## [8.5.7](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v8.5.6...v8.5.7) (2021-09-17)
 
-### Bug Fixes
-
-* do not crash when source is invalid ([#782](https://github.com/DylanVann/react-native-fast-image/issues/782)) ([5c5fefa](https://github.com/DylanVann/react-native-fast-image/commit/5c5fefacbdbc4d02c1eb71bca88fa1d012750b87))
-
-## [8.5.4](https://github.com/DylanVann/react-native-fast-image/compare/v8.5.3...v8.5.4) (2021-09-15)
+## [8.5.6](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v8.5.5...v8.5.6) (2021-09-16)
 
 
 ### Bug Fixes
 
-* **android:** update Glide ([86edd7f](https://github.com/DylanVann/react-native-fast-image/commit/86edd7ffc54a293cd732801fc70c0d4ada03899c))
+* make corresponding flow file for .cjs file ([77326e8](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/77326e8b09954ab8c27785fe84427b1ed3d9290f)), closes [#784](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/784)
 
-## [8.5.3](https://github.com/DylanVann/react-native-fast-image/compare/v8.5.2...v8.5.3) (2021-09-15)
-
-
-### Bug Fixes
-
-* **ios:** update SDWebImage ([#740](https://github.com/DylanVann/react-native-fast-image/issues/740)) ([a1eeb75](https://github.com/DylanVann/react-native-fast-image/commit/a1eeb75b19523e9514d3cb1c79cbe629e209d57e))
-
-## [8.5.2](https://github.com/DylanVann/react-native-fast-image/compare/v8.5.1...v8.5.2) (2021-09-15)
+## [8.5.5](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v8.5.4...v8.5.5) (2021-09-15)
 
 
 ### Bug Fixes
 
-* **android:** replace jcenter with mavenCentral ([69c9422](https://github.com/DylanVann/react-native-fast-image/commit/69c942276fedbb517eaf0d45f8fb3fdb8a191b2a))
+* do not crash when source is invalid ([#782](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/782)) ([5c5fefa](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/5c5fefacbdbc4d02c1eb71bca88fa1d012750b87))
 
-## [8.5.1](https://github.com/DylanVann/react-native-fast-image/compare/v8.5.0...v8.5.1) (2021-09-15)
+## [8.5.4](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v8.5.3...v8.5.4) (2021-09-15)
 
 
 ### Bug Fixes
 
-* improve/update build.gradle ([1f04c55](https://github.com/DylanVann/react-native-fast-image/commit/1f04c5542c6138d58446c58c3f3a5614772f81f1))
+* **android:** update Glide ([86edd7f](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/86edd7ffc54a293cd732801fc70c0d4ada03899c))
 
-# [8.5.0](https://github.com/DylanVann/react-native-fast-image/compare/v8.4.1...v8.5.0) (2021-09-15)
+## [8.5.3](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v8.5.2...v8.5.3) (2021-09-15)
+
+
+### Bug Fixes
+
+* **ios:** update SDWebImage ([#740](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/740)) ([a1eeb75](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/a1eeb75b19523e9514d3cb1c79cbe629e209d57e))
+
+## [8.5.2](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v8.5.1...v8.5.2) (2021-09-15)
+
+
+### Bug Fixes
+
+* **android:** replace jcenter with mavenCentral ([69c9422](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/69c942276fedbb517eaf0d45f8fb3fdb8a191b2a))
+
+## [8.5.1](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v8.5.0...v8.5.1) (2021-09-15)
+
+
+### Bug Fixes
+
+* improve/update build.gradle ([1f04c55](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/1f04c5542c6138d58446c58c3f3a5614772f81f1))
+
+# [8.5.0](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v8.4.1...v8.5.0) (2021-09-15)
 
 
 ### Features
 
-* **ios:** cancel image load when unmounted ([#787](https://github.com/DylanVann/react-native-fast-image/issues/787)) ([f1588be](https://github.com/DylanVann/react-native-fast-image/commit/f1588beec0e0684d99b10a3a9e8824cfd795f998))
+* **ios:** cancel image load when unmounted ([#787](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/787)) ([f1588be](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/f1588beec0e0684d99b10a3a9e8824cfd795f998))
 
-## [8.4.1](https://github.com/DylanVann/react-native-fast-image/compare/v8.4.0...v8.4.1) (2021-09-15)
+## [8.4.1](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v8.4.0...v8.4.1) (2021-09-15)
 
-# [8.4.0](https://github.com/DylanVann/react-native-fast-image/compare/v8.3.7...v8.4.0) (2021-09-15)
+# [8.4.0](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v8.3.7...v8.4.0) (2021-09-15)
 
 
 ### Bug Fixes
 
-* export FastImageStaticProperties ([#822](https://github.com/DylanVann/react-native-fast-image/issues/822)) ([d69f692](https://github.com/DylanVann/react-native-fast-image/commit/d69f6921590279a5d0f943b6b4b6879047d78d57))
-* update dv-scripts ([61fab12](https://github.com/DylanVann/react-native-fast-image/commit/61fab122ab90b404714035789e42d711ed1f93ab))
-* update dv-scripts ([3c6d0f4](https://github.com/DylanVann/react-native-fast-image/commit/3c6d0f4c7bfce991bcbad02ce5816d93a93121e5))
+* export FastImageStaticProperties ([#822](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/822)) ([d69f692](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/d69f6921590279a5d0f943b6b4b6879047d78d57))
+* update dv-scripts ([61fab12](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/61fab122ab90b404714035789e42d711ed1f93ab))
+* update dv-scripts ([3c6d0f4](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/3c6d0f4c7bfce991bcbad02ce5816d93a93121e5))
 
 
 ### Features
 
-* add clear image cache from memory and disk ([#425](https://github.com/DylanVann/react-native-fast-image/issues/425)) ([818ed0c](https://github.com/DylanVann/react-native-fast-image/commit/818ed0c3f59f825144609479047190f9bfd6dc76))
+* add clear image cache from memory and disk ([#425](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/425)) ([818ed0c](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/818ed0c3f59f825144609479047190f9bfd6dc76))
 
-## [8.3.7](https://github.com/DylanVann/react-native-fast-image/compare/v8.3.6...v8.3.7) (2021-07-24)
+## [8.3.7](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v8.3.6...v8.3.7) (2021-07-24)
 
-## [8.3.6](https://github.com/DylanVann/react-native-fast-image/compare/v8.3.5...v8.3.6) (2021-07-08)
+## [8.3.6](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v8.3.5...v8.3.6) (2021-07-08)
 
-## [8.3.5](https://github.com/DylanVann/react-native-fast-image/compare/v8.3.4...v8.3.5) (2021-07-06)
-
-
-### Bug Fixes
-
-* add react@17 as peer dependency ([#790](https://github.com/DylanVann/react-native-fast-image/issues/790)) ([27bd586](https://github.com/DylanVann/react-native-fast-image/commit/27bd58630cff4e10fea0bb835555bb7ad8b62da0))
-
-## [8.3.4](https://github.com/DylanVann/react-native-fast-image/compare/v8.3.3...v8.3.4) (2020-11-17)
-
-## [8.3.3](https://github.com/DylanVann/react-native-fast-image/compare/v8.3.2...v8.3.3) (2020-11-01)
+## [8.3.5](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v8.3.4...v8.3.5) (2021-07-06)
 
 
 ### Bug Fixes
 
-* xcode 12 compatibility ([#732](https://github.com/DylanVann/react-native-fast-image/issues/732)) ([23c3955](https://github.com/DylanVann/react-native-fast-image/commit/23c3955473a94477c52c0ec2b9f4f51e9377be06))
+* add react@17 as peer dependency ([#790](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/790)) ([27bd586](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/27bd58630cff4e10fea0bb835555bb7ad8b62da0))
 
-## [8.3.2](https://github.com/DylanVann/react-native-fast-image/compare/v8.3.1...v8.3.2) (2020-07-17)
+## [8.3.4](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v8.3.3...v8.3.4) (2020-11-17)
 
-
-### Bug Fixes
-
-* **android:** remove explicit use of UI thread ([#698](https://github.com/DylanVann/react-native-fast-image/issues/698)) ([5d2894e](https://github.com/DylanVann/react-native-fast-image/commit/5d2894e442dc3d239b4dc9cb25dca455f7d8bc6e))
-
-## [8.3.1](https://github.com/DylanVann/react-native-fast-image/compare/v8.3.0...v8.3.1) (2020-07-17)
+## [8.3.3](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v8.3.2...v8.3.3) (2020-11-01)
 
 
 ### Bug Fixes
 
-* **android:** make center ResizeMode work correctly ([d648ef8](https://github.com/DylanVann/react-native-fast-image/commit/d648ef85045fb97d8d1f6a637e915fa912a6c6c9))
+* xcode 12 compatibility ([#732](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/732)) ([23c3955](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/23c3955473a94477c52c0ec2b9f4f51e9377be06))
 
-# [8.3.0](https://github.com/DylanVann/react-native-fast-image/compare/v8.2.2...v8.3.0) (2020-07-17)
+## [8.3.2](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v8.3.1...v8.3.2) (2020-07-17)
+
+
+### Bug Fixes
+
+* **android:** remove explicit use of UI thread ([#698](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/698)) ([5d2894e](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/5d2894e442dc3d239b4dc9cb25dca455f7d8bc6e))
+
+## [8.3.1](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v8.3.0...v8.3.1) (2020-07-17)
+
+
+### Bug Fixes
+
+* **android:** make center ResizeMode work correctly ([d648ef8](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/d648ef85045fb97d8d1f6a637e915fa912a6c6c9))
+
+# [8.3.0](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v8.2.2...v8.3.0) (2020-07-17)
 
 
 ### Features
 
-* **ios:** allow for for per-image-request-headers ([#691](https://github.com/DylanVann/react-native-fast-image/issues/691)) ([4a7cd64](https://github.com/DylanVann/react-native-fast-image/commit/4a7cd64f5b0aa40b04d63ccb105ee2b511abe624))
+* **ios:** allow for for per-image-request-headers ([#691](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/691)) ([4a7cd64](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/4a7cd64f5b0aa40b04d63ccb105ee2b511abe624))
 
-## [8.2.2](https://github.com/DylanVann/react-native-fast-image/compare/v8.2.1...v8.2.2) (2020-07-17)
-
-
-### Bug Fixes
-
-* accessibilityIgnoresInvertColors prop not recognised when using TypeScript ([#666](https://github.com/DylanVann/react-native-fast-image/issues/666)) ([22f89e4](https://github.com/DylanVann/react-native-fast-image/commit/22f89e43a422150412924da9fd0f3eca7dd77cfa)), closes [/github.com/DylanVann/react-native-fast-image/blob/master/src/index.tsx#L150-L160](https://github.com//github.com/DylanVann/react-native-fast-image/blob/master/src/index.tsx/issues/L150-L160)
-
-## [8.2.1](https://github.com/DylanVann/react-native-fast-image/compare/v8.2.0...v8.2.1) (2020-07-17)
+## [8.2.2](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v8.2.1...v8.2.2) (2020-07-17)
 
 
 ### Bug Fixes
 
-* remove cache property if using fallback ([ba0f238](https://github.com/DylanVann/react-native-fast-image/commit/ba0f238821ba23517b8e62e759f685b8cd67c0c6))
+* accessibilityIgnoresInvertColors prop not recognised when using TypeScript ([#666](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/666)) ([22f89e4](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/22f89e43a422150412924da9fd0f3eca7dd77cfa)), closes [/github.com/hassanprodeveloper/hpd-react-native-fast-image/blob/master/src/index.tsx#L150-L160](https://github.com//github.com/hassanprodeveloper/hpd-react-native-fast-image/blob/master/src/index.tsx/issues/L150-L160)
 
-# [8.2.0](https://github.com/DylanVann/react-native-fast-image/compare/v8.1.10...v8.2.0) (2020-07-17)
+## [8.2.1](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v8.2.0...v8.2.1) (2020-07-17)
+
+
+### Bug Fixes
+
+* remove cache property if using fallback ([ba0f238](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/ba0f238821ba23517b8e62e759f685b8cd67c0c6))
+
+# [8.2.0](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v8.1.10...v8.2.0) (2020-07-17)
 
 
 ### Features
 
-* export ResizeMode and Priority types ([#678](https://github.com/DylanVann/react-native-fast-image/issues/678)) ([e33664f](https://github.com/DylanVann/react-native-fast-image/commit/e33664fbcff4be7b180c3843422f76e9d0b1c4f8))
+* export ResizeMode and Priority types ([#678](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/678)) ([e33664f](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/e33664fbcff4be7b180c3843422f76e9d0b1c4f8))
 
-## [8.1.10](https://github.com/DylanVann/react-native-fast-image/compare/v8.1.9...v8.1.10) (2020-07-17)
-
-
-### Bug Fixes
-
-* update SDWebImage and SDWebImageWebPCoder ([#689](https://github.com/DylanVann/react-native-fast-image/issues/689)) ([9646456](https://github.com/DylanVann/react-native-fast-image/commit/964645667525dc09f625bc471548b995e01d0061))
-
-## [8.1.9](https://github.com/DylanVann/react-native-fast-image/compare/v8.1.8...v8.1.9) (2020-07-17)
+## [8.1.10](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v8.1.9...v8.1.10) (2020-07-17)
 
 
 ### Bug Fixes
 
-* wrong cache type ([#688](https://github.com/DylanVann/react-native-fast-image/issues/688)) [skip ci] ([94e2256](https://github.com/DylanVann/react-native-fast-image/commit/94e2256da234d535e88172ce325c89e7cb69fc6e))
+* update SDWebImage and SDWebImageWebPCoder ([#689](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/689)) ([9646456](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/964645667525dc09f625bc471548b995e01d0061))
 
-## [8.1.8](https://github.com/DylanVann/react-native-fast-image/compare/v8.1.7...v8.1.8) (2020-07-17)
+## [8.1.9](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v8.1.8...v8.1.9) (2020-07-17)
 
 
 ### Bug Fixes
 
-* peer dependency warning ([#653](https://github.com/DylanVann/react-native-fast-image/issues/653)) ([cd81b1b](https://github.com/DylanVann/react-native-fast-image/commit/cd81b1b66a8d9938764a66e1f3c1bd5ff20b3565))
+* wrong cache type ([#688](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/688)) [skip ci] ([94e2256](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/94e2256da234d535e88172ce325c89e7cb69fc6e))
 
-## [8.1.7](https://github.com/DylanVann/react-native-fast-image/compare/v8.1.6...v8.1.7) (2020-07-17)
+## [8.1.8](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v8.1.7...v8.1.8) (2020-07-17)
 
-## [8.1.6](https://github.com/DylanVann/react-native-fast-image/compare/v8.1.5...v8.1.6) (2020-07-17)
+
+### Bug Fixes
+
+* peer dependency warning ([#653](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/653)) ([cd81b1b](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/cd81b1b66a8d9938764a66e1f3c1bd5ff20b3565))
+
+## [8.1.7](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v8.1.6...v8.1.7) (2020-07-17)
+
+## [8.1.6](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v8.1.5...v8.1.6) (2020-07-17)
 
 ### Changed
 
-* Use [`dv-scripts`](https://github.com/DylanVann/dv-scripts) to simplify tooling (build, lint, test, release).
+* Use [`dv-scripts`](https://github.com/hassanprodeveloper/dv-scripts) to simplify tooling (build, lint, test, release).
 
-## [8.1.5](https://github.com/DylanVann/react-native-fast-image/compare/v8.1.4...v8.1.5) (2020-03-14)
-
-
-### Bug Fixes
-
-* Updates SDWebImageWebPCoder. ([#628](https://github.com/DylanVann/react-native-fast-image/issues/628)) ([325d77f](https://github.com/DylanVann/react-native-fast-image/commit/325d77f4c2e2e1437c0dda160b6047473d7c8a07))
-
-## [8.1.4](https://github.com/DylanVann/react-native-fast-image/compare/v8.1.3...v8.1.4) (2020-03-12)
+## [8.1.5](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v8.1.4...v8.1.5) (2020-03-14)
 
 
 ### Bug Fixes
 
-* Bump Glide version number to v4.11.0. ([#649](https://github.com/DylanVann/react-native-fast-image/issues/649)) ([c4e4306](https://github.com/DylanVann/react-native-fast-image/commit/c4e4306c15bda65d95e97ab9f45ef5e351128253)), closes [#536](https://github.com/DylanVann/react-native-fast-image/issues/536)
+* Updates SDWebImageWebPCoder. ([#628](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/628)) ([325d77f](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/325d77f4c2e2e1437c0dda160b6047473d7c8a07))
 
-## [8.1.3](https://github.com/DylanVann/react-native-fast-image/compare/v8.1.2...v8.1.3) (2020-03-12)
-
-
-### Bug Fixes
-
-* Replace 'Component' with 'ComponentType' ([#647](https://github.com/DylanVann/react-native-fast-image/issues/647)) ([6abb273](https://github.com/DylanVann/react-native-fast-image/commit/6abb273ce590ab7a111695a601b603823ac0bf4e))
-
-## [8.1.2](https://github.com/DylanVann/react-native-fast-image/compare/v8.1.1...v8.1.2) (2020-03-09)
+## [8.1.4](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v8.1.3...v8.1.4) (2020-03-12)
 
 
 ### Bug Fixes
 
-* Fixes podspec syntax. ([b627646](https://github.com/DylanVann/react-native-fast-image/commit/b627646001e334ece89c49e0aa6bc403f496f8ce))
+* Bump Glide version number to v4.11.0. ([#649](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/649)) ([c4e4306](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/c4e4306c15bda65d95e97ab9f45ef5e351128253)), closes [#536](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/536)
 
-## [8.1.1](https://github.com/DylanVann/react-native-fast-image/compare/v8.1.0...v8.1.1) (2020-03-09)
+## [8.1.3](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v8.1.2...v8.1.3) (2020-03-12)
 
 
 ### Bug Fixes
 
-* Add git tag to CocoaPods source property ([#601](https://github.com/DylanVann/react-native-fast-image/issues/601)) ([2d706ad](https://github.com/DylanVann/react-native-fast-image/commit/2d706ad7da6410a3a2382b70ed90369f0473117e))
+* Replace 'Component' with 'ComponentType' ([#647](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/647)) ([6abb273](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/6abb273ce590ab7a111695a601b603823ac0bf4e))
 
-# [8.1.0](https://github.com/DylanVann/react-native-fast-image/compare/v8.0.0...v8.1.0) (2020-03-09)
+## [8.1.2](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v8.1.1...v8.1.2) (2020-03-09)
+
+
+### Bug Fixes
+
+* Fixes podspec syntax. ([b627646](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/b627646001e334ece89c49e0aa6bc403f496f8ce))
+
+## [8.1.1](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v8.1.0...v8.1.1) (2020-03-09)
+
+
+### Bug Fixes
+
+* Add git tag to CocoaPods source property ([#601](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/601)) ([2d706ad](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/2d706ad7da6410a3a2382b70ed90369f0473117e))
+
+# [8.1.0](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v8.0.0...v8.1.0) (2020-03-09)
 
 
 ### Features
 
-* converts to TypeScript ([#642](https://github.com/DylanVann/react-native-fast-image/issues/642)) ([ac11706](https://github.com/DylanVann/react-native-fast-image/commit/ac117060ebdd04b2130bfb23c62f203beb077089))
+* converts to TypeScript ([#642](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/642)) ([ac11706](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/ac117060ebdd04b2130bfb23c62f203beb077089))
 
-# [8.0.0](https://github.com/DylanVann/react-native-fast-image/compare/v7.0.2...v8.0.0) (2019-10-20)
+# [8.0.0](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v7.0.2...v8.0.0) (2019-10-20)
 
 
 ### Features
 
-* Add cookie support for iOS. ([#284](https://github.com/DylanVann/react-native-fast-image/issues/284)) ([ae47bff](https://github.com/DylanVann/react-native-fast-image/commit/ae47bff))
+* Add cookie support for iOS. ([#284](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/284)) ([ae47bff](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/ae47bff))
 
 
 ### BREAKING CHANGES
 
 * This changes how network requests are handled on iOS. Make sure they still work for you.
 
-## [7.0.2](https://github.com/DylanVann/react-native-fast-image/compare/v7.0.1...v7.0.2) (2019-07-05)
+## [7.0.2](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v7.0.1...v7.0.2) (2019-07-05)
 
 
 ### Bug Fixes
 
-* Fix peer dependency and remove prop-types. ([44a4c8b](https://github.com/DylanVann/react-native-fast-image/commit/44a4c8b))
+* Fix peer dependency and remove prop-types. ([44a4c8b](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/44a4c8b))
 
-## [7.0.1](https://github.com/DylanVann/react-native-fast-image/compare/v7.0.0...v7.0.1) (2019-07-05)
+## [7.0.1](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v7.0.0...v7.0.1) (2019-07-05)
 
 
 ### Bug Fixes
 
-* Fix IllegalArgumentException crash (Android). ([#511](https://github.com/DylanVann/react-native-fast-image/issues/511)) ([b6c4677](https://github.com/DylanVann/react-native-fast-image/commit/b6c4677))
+* Fix IllegalArgumentException crash (Android). ([#511](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/511)) ([b6c4677](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/b6c4677))
 
-# [7.0.0](https://github.com/DylanVann/react-native-fast-image/compare/v6.1.1...v7.0.0) (2019-07-05)
+# [7.0.0](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v6.1.1...v7.0.0) (2019-07-05)
 
 
 ### Features
 
-* Upgrade to React Native 0.60.0 / CocoaPods / Android X. ([#513](https://github.com/DylanVann/react-native-fast-image/issues/513)) ([5489f9e](https://github.com/DylanVann/react-native-fast-image/commit/5489f9e))
+* Upgrade to React Native 0.60.0 / CocoaPods / Android X. ([#513](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/513)) ([5489f9e](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/5489f9e))
 
 
 ### BREAKING CHANGES
 
 * You should upgrade React Native. See https://facebook.github.io/react-native/blog/2019/07/03/version-60
 
-## [6.1.1](https://github.com/DylanVann/react-native-fast-image/compare/v6.1.0...v6.1.1) (2019-07-03)
+## [6.1.1](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v6.1.0...v6.1.1) (2019-07-03)
 
 
 ### Bug Fixes
 
-* Loading images by reverting "bug: Use device scale when loading images.". ([0326c3e](https://github.com/DylanVann/react-native-fast-image/commit/0326c3e)), closes [#509](https://github.com/DylanVann/react-native-fast-image/issues/509)
+* Loading images by reverting "bug: Use device scale when loading images.". ([0326c3e](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/0326c3e)), closes [#509](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/509)
 
-# [6.1.0](https://github.com/DylanVann/react-native-fast-image/compare/v6.0.5...v6.1.0) (2019-06-30)
+# [6.1.0](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v6.0.5...v6.1.0) (2019-06-30)
 
 
 ### Features
 
-* Add tvOS target. ([#486](https://github.com/DylanVann/react-native-fast-image/issues/486)) ([6805972](https://github.com/DylanVann/react-native-fast-image/commit/6805972))
+* Add tvOS target. ([#486](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/486)) ([6805972](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/6805972))
 
-## [6.0.5](https://github.com/DylanVann/react-native-fast-image/compare/v6.0.4...v6.0.5) (2019-06-28)
-
-
-### Bug Fixes
-
-* Fix incorrect syntax. ([11f6047](https://github.com/DylanVann/react-native-fast-image/commit/11f6047))
-
-## [6.0.4](https://github.com/DylanVann/react-native-fast-image/compare/v6.0.3...v6.0.4) (2019-06-28)
+## [6.0.5](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v6.0.4...v6.0.5) (2019-06-28)
 
 
 ### Bug Fixes
 
-* Fix setting props order issue for iOS. ([#303](https://github.com/DylanVann/react-native-fast-image/issues/303)) ([5597ed0](https://github.com/DylanVann/react-native-fast-image/commit/5597ed0)), closes [#304](https://github.com/DylanVann/react-native-fast-image/issues/304)
+* Fix incorrect syntax. ([11f6047](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/11f6047))
 
-## [6.0.3](https://github.com/DylanVann/react-native-fast-image/compare/v6.0.2...v6.0.3) (2019-06-03)
-
-
-### Bug Fixes
-
-* Add tintColor type definition. ([4adf42f](https://github.com/DylanVann/react-native-fast-image/commit/4adf42f))
-
-## [6.0.2](https://github.com/DylanVann/react-native-fast-image/compare/v6.0.1...v6.0.2) (2019-06-03)
+## [6.0.4](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v6.0.3...v6.0.4) (2019-06-28)
 
 
 ### Bug Fixes
 
-* Upgrade vendored SDWebImage to v5.0.5. ([5016172](https://github.com/DylanVann/react-native-fast-image/commit/5016172)), closes [#489](https://github.com/DylanVann/react-native-fast-image/issues/489)
+* Fix setting props order issue for iOS. ([#303](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/303)) ([5597ed0](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/5597ed0)), closes [#304](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/304)
 
-## [6.0.1](https://github.com/DylanVann/react-native-fast-image/compare/v6.0.0...v6.0.1) (2019-05-25)
+## [6.0.3](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v6.0.2...v6.0.3) (2019-06-03)
 
 
 ### Bug Fixes
 
-* Fix local resource cache issue on Android. ([#472](https://github.com/DylanVann/react-native-fast-image/issues/472)) ([5f65383](https://github.com/DylanVann/react-native-fast-image/commit/5f65383)), closes [#402](https://github.com/DylanVann/react-native-fast-image/issues/402)
+* Add tintColor type definition. ([4adf42f](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/4adf42f))
 
-# [6.0.0](https://github.com/DylanVann/react-native-fast-image/compare/v5.4.2...v6.0.0) (2019-05-08)
+## [6.0.2](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v6.0.1...v6.0.2) (2019-06-03)
+
+
+### Bug Fixes
+
+* Upgrade vendored SDWebImage to v5.0.5. ([5016172](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/5016172)), closes [#489](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/489)
+
+## [6.0.1](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v6.0.0...v6.0.1) (2019-05-25)
+
+
+### Bug Fixes
+
+* Fix local resource cache issue on Android. ([#472](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/472)) ([5f65383](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/5f65383)), closes [#402](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/402)
+
+# [6.0.0](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v5.4.2...v6.0.0) (2019-05-08)
 
 
 ### Features
 
-* Upgrade to SDWebImage 5.0. ([#454](https://github.com/DylanVann/react-native-fast-image/issues/454)) ([8a216e2](https://github.com/DylanVann/react-native-fast-image/commit/8a216e2)), closes [#447](https://github.com/DylanVann/react-native-fast-image/issues/447)
+* Upgrade to SDWebImage 5.0. ([#454](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/454)) ([8a216e2](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/8a216e2)), closes [#447](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/447)
 
 
 ### BREAKING CHANGES
@@ -358,78 +358,78 @@
 
 Fix the bug of `cacheOnly` behavior
 
-## [5.4.2](https://github.com/DylanVann/react-native-fast-image/compare/v5.4.1...v5.4.2) (2019-05-03)
+## [5.4.2](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v5.4.1...v5.4.2) (2019-05-03)
 
 
 ### Bug Fixes
 
-* Fix dependency versions not specified in podfile. ([89f3379](https://github.com/DylanVann/react-native-fast-image/commit/89f3379)), closes [#456](https://github.com/DylanVann/react-native-fast-image/issues/456)
+* Fix dependency versions not specified in podfile. ([89f3379](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/89f3379)), closes [#456](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/456)
 
-## [5.4.1](https://github.com/DylanVann/react-native-fast-image/compare/v5.4.0...v5.4.1) (2019-05-03)
+## [5.4.1](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v5.4.0...v5.4.1) (2019-05-03)
 
 
 ### Bug Fixes
 
-* Fix wildcard peer dependencies. ([7149420](https://github.com/DylanVann/react-native-fast-image/commit/7149420)), closes [#440](https://github.com/DylanVann/react-native-fast-image/issues/440)
+* Fix wildcard peer dependencies. ([7149420](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/7149420)), closes [#440](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/440)
 
-# [5.4.0](https://github.com/DylanVann/react-native-fast-image/compare/v5.3.0...v5.4.0) (2019-05-03)
+# [5.4.0](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v5.3.0...v5.4.0) (2019-05-03)
 
 
 ### Features
 
-* Add tint color support. ([03c50f0](https://github.com/DylanVann/react-native-fast-image/commit/03c50f0)), closes [#124](https://github.com/DylanVann/react-native-fast-image/issues/124)
+* Add tint color support. ([03c50f0](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/03c50f0)), closes [#124](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/124)
 
-# [5.3.0](https://github.com/DylanVann/react-native-fast-image/compare/v5.2.1...v5.3.0) (2019-04-23)
+# [5.3.0](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v5.2.1...v5.3.0) (2019-04-23)
 
 
 ### Bug Fixes
 
-* Fix memory leak on iOS. ([#433](https://github.com/DylanVann/react-native-fast-image/issues/433)) ([70be744](https://github.com/DylanVann/react-native-fast-image/commit/70be744))
+* Fix memory leak on iOS. ([#433](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/433)) ([70be744](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/70be744))
 
 
 ### Features
 
-* Upgrade example apps. ([#453](https://github.com/DylanVann/react-native-fast-image/issues/453)) ([25f8f0d](https://github.com/DylanVann/react-native-fast-image/commit/25f8f0d))
+* Upgrade example apps. ([#453](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/453)) ([25f8f0d](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/25f8f0d))
 
 
 ### Reverts
 
-* Remove functionality for notifying other images on load. ([#452](https://github.com/DylanVann/react-native-fast-image/issues/452)) ([292223d](https://github.com/DylanVann/react-native-fast-image/commit/292223d))
+* Remove functionality for notifying other images on load. ([#452](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/452)) ([292223d](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/292223d))
 
-## [5.2.1](https://github.com/DylanVann/react-native-fast-image/compare/v5.2.0...v5.2.1) (2019-04-21)
+## [5.2.1](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v5.2.0...v5.2.1) (2019-04-21)
 
 
 ### Performance Improvements
 
-* Use React.memo for FastImage. ([#449](https://github.com/DylanVann/react-native-fast-image/issues/449)) ([5c2b4af](https://github.com/DylanVann/react-native-fast-image/commit/5c2b4af))
+* Use React.memo for FastImage. ([#449](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/449)) ([5c2b4af](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/5c2b4af))
 
-## [5.2.0](https://github.com/DylanVann/react-native-fast-image/compare/v5.1.4...v5.2.0) (2019-02-25)
+## [5.2.0](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v5.1.4...v5.2.0) (2019-02-25)
 
 
 ### Features
 
-* Use forwardRef to allow access to ref.measure and others. ([#419](https://github.com/DylanVann/react-native-fast-image/issues/419)) ([2b4fba3](https://github.com/DylanVann/react-native-fast-image/commit/2b4fba3)), closes [#69](https://github.com/DylanVann/react-native-fast-image/issues/69)
+* Use forwardRef to allow access to ref.measure and others. ([#419](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/419)) ([2b4fba3](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/2b4fba3)), closes [#69](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/69)
 
-## [5.1.4](https://github.com/DylanVann/react-native-fast-image/compare/v5.1.3...v5.1.4) (2019-02-25)
-
-
-### Bug Fixes
-
-* Fix fallback prop not working. ([#420](https://github.com/DylanVann/react-native-fast-image/issues/420)) ([487d410](https://github.com/DylanVann/react-native-fast-image/commit/487d410))
-
-## [5.1.3](https://github.com/DylanVann/react-native-fast-image/compare/v5.1.2...v5.1.3) (2019-02-22)
+## [5.1.4](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v5.1.3...v5.1.4) (2019-02-25)
 
 
 ### Bug Fixes
 
-* Fixes WebP rendering on iOS 12. ([#412](https://github.com/DylanVann/react-native-fast-image/issues/412)) ([97630c8](https://github.com/DylanVann/react-native-fast-image/commit/97630c8)), closes [#298](https://github.com/DylanVann/react-native-fast-image/issues/298) [#385](https://github.com/DylanVann/react-native-fast-image/issues/385)
+* Fix fallback prop not working. ([#420](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/420)) ([487d410](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/487d410))
 
-## [5.1.2](https://github.com/DylanVann/react-native-fast-image/compare/v5.1.1...v5.1.2) (2018-12-30)
+## [5.1.3](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v5.1.2...v5.1.3) (2019-02-22)
+
+
+### Bug Fixes
+
+* Fixes WebP rendering on iOS 12. ([#412](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/412)) ([97630c8](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/97630c8)), closes [#298](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/298) [#385](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/385)
+
+## [5.1.2](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v5.1.1...v5.1.2) (2018-12-30)
 
 
 ### Fixed
 
--   Fixes cacheControl types. ([#382](https://github.com/DylanVann/react-native-fast-image/issues/382)) ([e13db7d](https://github.com/DylanVann/react-native-fast-image/commit/e13db7d)), closes [#325](https://github.com/DylanVann/react-native-fast-image/issues/325)
+-   Fixes cacheControl types. ([#382](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/382)) ([e13db7d](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/e13db7d)), closes [#325](https://github.com/hassanprodeveloper/hpd-react-native-fast-image/issues/325)
 
 ## [5.1.1] (2018-11-13)
 
@@ -573,7 +573,7 @@ Fix the bug of `cacheOnly` behavior
 
 ### Fixed
 
--   Fixes a bug where an undefined source would cause a crash. (https://github.com/DylanVann/react-native-fast-image/commit/78a28cdb814db39942125ead19742695a35b7223)
+-   Fixes a bug where an undefined source would cause a crash. (https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/78a28cdb814db39942125ead19742695a35b7223)
 
 ## [4.0.2] (2018-04-19)
 
@@ -618,7 +618,7 @@ Fix the bug of `cacheOnly` behavior
 
 ### Fixed
 
--   Callbacks not being called. https://github.com/DylanVann/react-native-fast-image/commit/d9f729915486665d9aad1f1febff5348ab3ab069
+-   Callbacks not being called. https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/d9f729915486665d9aad1f1febff5348ab3ab069
 
 ## [2.2.4] (2018-02-13)
 
@@ -630,20 +630,20 @@ Fix the bug of `cacheOnly` behavior
 
 ### Added
 
--   Typescript type definitions. https://github.com/DylanVann/react-native-fast-image/pull/116/commits/f5422f851d428c8b60ca170a682164a32ffa4bb9
+-   Typescript type definitions. https://github.com/hassanprodeveloper/hpd-react-native-fast-image/pull/116/commits/f5422f851d428c8b60ca170a682164a32ffa4bb9
 
 ## [2.1.4] (2018-01-31)
 
 ### Fixed
 
--   Styles not being passed when using a local image. https://github.com/DylanVann/react-native-fast-image/commit/1cf545253c385b42593f4b226029cb4aaa0ed325
+-   Styles not being passed when using a local image. https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/1cf545253c385b42593f4b226029cb4aaa0ed325
 
 ## [2.1.3] (2018-01-30)
 
 ### Added
 
--   `borderRadius` support. https://github.com/DylanVann/react-native-fast-image/commit/3a33bdaa27b0d68fc2ee692b18d7f527e0f342f5
--   Documentation on how caching is handled. https://github.com/DylanVann/react-native-fast-image/commit/8aa6c6bc13ae48d3116ab19ddb4947ad108ae964
+-   `borderRadius` support. https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/3a33bdaa27b0d68fc2ee692b18d7f527e0f342f5
+-   Documentation on how caching is handled. https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/8aa6c6bc13ae48d3116ab19ddb4947ad108ae964
 
 ### Changed
 
@@ -653,8 +653,8 @@ Fix the bug of `cacheOnly` behavior
 
 ### Fixed
 
--   Default `resizeMode` on Android. https://github.com/DylanVann/react-native-fast-image/commit/d4210c0ed03d7e0c49389f6abbb3c713e68e5142
--   Preloading on android. https://github.com/DylanVann/react-native-fast-image/commit/de4f40a3a30a95fb8cdab714735501650e335dd9
+-   Default `resizeMode` on Android. https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/d4210c0ed03d7e0c49389f6abbb3c713e68e5142
+-   Preloading on android. https://github.com/hassanprodeveloper/hpd-react-native-fast-image/commit/de4f40a3a30a95fb8cdab714735501650e335dd9
 
 ## [2.0.1] (2017-11-30)
 
@@ -670,8 +670,8 @@ Fix the bug of `cacheOnly` behavior
 
 ### Fixed
 
--   Fix `resizeMode` issue. (@tdekoning - https://github.com/DylanVann/react-native-fast-image/pull/64)
--   Fix Android split screen crash. (@wz366 https://github.com/DylanVann/react-native-fast-image/pull/75)
+-   Fix `resizeMode` issue. (@tdekoning - https://github.com/hassanprodeveloper/hpd-react-native-fast-image/pull/64)
+-   Fix Android split screen crash. (@wz366 https://github.com/hassanprodeveloper/hpd-react-native-fast-image/pull/75)
 -   Fixed CircleCI config.
 
 ### Removed
@@ -758,39 +758,39 @@ Fix the bug of `cacheOnly` behavior
 
 -   Initial release.
 
-[unreleased]: https://github.com/DylanVann/react-native-fast-image/compare/v5.1.1...HEAD
-[5.1.1]: https://github.com/DylanVann/react-native-fast-image/compare/v5.1.0...v5.1.1
-[5.1.0]: https://github.com/DylanVann/react-native-fast-image/compare/v5.0.11...v5.1.0
-[5.0.11]: https://github.com/DylanVann/react-native-fast-image/compare/v4.0.14...v5.0.11
-[4.0.14]: https://github.com/DylanVann/react-native-fast-image/compare/v4.0.13...v4.0.14
-[4.0.13]: https://github.com/DylanVann/react-native-fast-image/compare/v4.0.12...v4.0.13
-[4.0.12]: https://github.com/DylanVann/react-native-fast-image/compare/v4.0.11...v4.0.12
-[4.0.11]: https://github.com/DylanVann/react-native-fast-image/compare/v4.0.10...v4.0.11
-[4.0.10]: https://github.com/DylanVann/react-native-fast-image/compare/v4.0.9...v4.0.10
-[4.0.9]: https://github.com/DylanVann/react-native-fast-image/compare/v4.0.8...v4.0.9
-[4.0.8]: https://github.com/DylanVann/react-native-fast-image/compare/v4.0.7...v4.0.8
-[4.0.7]: https://github.com/DylanVann/react-native-fast-image/compare/v4.0.6...v4.0.7
-[4.0.6]: https://github.com/DylanVann/react-native-fast-image/compare/v4.0.4...v4.0.6
-[4.0.4]: https://github.com/DylanVann/react-native-fast-image/compare/v4.0.3...v4.0.4
-[4.0.3]: https://github.com/DylanVann/react-native-fast-image/compare/v4.0.2...v4.0.3
-[4.0.2]: https://github.com/DylanVann/react-native-fast-image/compare/v4.0.0...v4.0.2
-[4.0.0]: https://github.com/DylanVann/react-native-fast-image/compare/v3.0.1...v4.0.0
-[3.0.1]: https://github.com/DylanVann/react-native-fast-image/compare/v2.2.6...v3.0.1
-[2.2.6]: https://github.com/DylanVann/react-native-fast-image/compare/v2.2.4...v2.2.6
-[2.2.4]: https://github.com/DylanVann/react-native-fast-image/compare/v2.2.3...v2.2.4
-[2.2.3]: https://github.com/DylanVann/react-native-fast-image/compare/v2.1.4...v2.2.3
-[2.1.4]: https://github.com/DylanVann/react-native-fast-image/compare/v2.1.3...v2.1.4
-[2.1.3]: https://github.com/DylanVann/react-native-fast-image/compare/v2.0.1...v2.1.3
-[2.0.1]: https://github.com/DylanVann/react-native-fast-image/compare/v2.0.0...v2.0.1
-[2.0.0]: https://github.com/DylanVann/react-native-fast-image/compare/v1.0.0...v2.0.0
-[1.0.0]: https://github.com/DylanVann/react-native-fast-image/compare/v0.0.11...v1.0.0
-[0.0.11]: https://github.com/DylanVann/react-native-fast-image/compare/v0.0.10...v0.0.11
-[0.0.10]: https://github.com/DylanVann/react-native-fast-image/compare/v0.0.9...v0.0.10
-[0.0.9]: https://github.com/DylanVann/react-native-fast-image/compare/v0.0.8...v0.0.9
-[0.0.8]: https://github.com/DylanVann/react-native-fast-image/compare/v0.0.7...v0.0.8
-[0.0.7]: https://github.com/DylanVann/react-native-fast-image/compare/v0.0.6...v0.0.7
-[0.0.6]: https://github.com/DylanVann/react-native-fast-image/compare/v0.0.5...v0.0.6
-[0.0.5]: https://github.com/DylanVann/react-native-fast-image/compare/v0.0.4...v0.0.5
-[0.0.4]: https://github.com/DylanVann/react-native-fast-image/compare/v0.0.3...v0.0.4
-[0.0.3]: https://github.com/DylanVann/react-native-fast-image/compare/v0.0.2...v0.0.3
-[0.0.2]: https://github.com/DylanVann/react-native-fast-image/compare/v0.0.1...v0.0.2
+[unreleased]: https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v5.1.1...HEAD
+[5.1.1]: https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v5.1.0...v5.1.1
+[5.1.0]: https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v5.0.11...v5.1.0
+[5.0.11]: https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v4.0.14...v5.0.11
+[4.0.14]: https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v4.0.13...v4.0.14
+[4.0.13]: https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v4.0.12...v4.0.13
+[4.0.12]: https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v4.0.11...v4.0.12
+[4.0.11]: https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v4.0.10...v4.0.11
+[4.0.10]: https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v4.0.9...v4.0.10
+[4.0.9]: https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v4.0.8...v4.0.9
+[4.0.8]: https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v4.0.7...v4.0.8
+[4.0.7]: https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v4.0.6...v4.0.7
+[4.0.6]: https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v4.0.4...v4.0.6
+[4.0.4]: https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v4.0.3...v4.0.4
+[4.0.3]: https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v4.0.2...v4.0.3
+[4.0.2]: https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v4.0.0...v4.0.2
+[4.0.0]: https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v3.0.1...v4.0.0
+[3.0.1]: https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v2.2.6...v3.0.1
+[2.2.6]: https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v2.2.4...v2.2.6
+[2.2.4]: https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v2.2.3...v2.2.4
+[2.2.3]: https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v2.1.4...v2.2.3
+[2.1.4]: https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v2.1.3...v2.1.4
+[2.1.3]: https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v2.0.1...v2.1.3
+[2.0.1]: https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v2.0.0...v2.0.1
+[2.0.0]: https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v1.0.0...v2.0.0
+[1.0.0]: https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v0.0.11...v1.0.0
+[0.0.11]: https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v0.0.10...v0.0.11
+[0.0.10]: https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v0.0.9...v0.0.10
+[0.0.9]: https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v0.0.8...v0.0.9
+[0.0.8]: https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v0.0.7...v0.0.8
+[0.0.7]: https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v0.0.6...v0.0.7
+[0.0.6]: https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v0.0.5...v0.0.6
+[0.0.5]: https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v0.0.4...v0.0.5
+[0.0.4]: https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v0.0.3...v0.0.4
+[0.0.3]: https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v0.0.2...v0.0.3
+[0.0.2]: https://github.com/hassanprodeveloper/hpd-react-native-fast-image/compare/v0.0.1...v0.0.2
