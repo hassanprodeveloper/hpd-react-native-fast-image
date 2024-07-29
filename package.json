@@ -1,13 +1,15 @@
 {
     "name": "hpd-react-native-fast-image",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "🚩 FastImage, performant React Native image component.",
     "keywords": [
         "cache",
         "cached",
         "fastimage",
         "image",
-        "priority"
+        "priority",
+        "hpd",
+        "hassanprodeveloper"
     ],
     "homepage": "https://github.com/hassanprodeveloper/hpd-react-native-fast-image#readme",
     "bugs": {
@@ -34,7 +36,8 @@
         "build": "dv-scripts build && cp src/index.js.flow dist/index.js.flow && cp src/index.js.flow dist/index.cjs.js.flow",
         "lint": "dv-scripts lint",
         "release": "dv-scripts release",
-        "test": "dv-scripts test"
+        "test": "dv-scripts test",
+        "publish": "npm run build && npm publish"
     },
     "prettier": {
         "semi": false,
@@ -65,7 +68,6 @@
         "@types/jest": "^26.0.24",
         "@types/react": "^18.2.6",
         "@types/react-test-renderer": "^18.0.0",
-        "@types/react-native": "^0.73.0",
         "dv-scripts": "^1.6.0",
         "eslint-config-dv-scripts": "^1.1.1",
         "metro-react-native-babel-preset": "^0.66.1",
