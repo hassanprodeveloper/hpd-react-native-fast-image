@@ -1,6 +1,6 @@
 {
     "name": "hpd-react-native-fast-image",
-    "version": "8.6.3",
+    "version": "1.0",
     "description": "🚩 FastImage, performant React Native image component.",
     "keywords": [
         "cache",
